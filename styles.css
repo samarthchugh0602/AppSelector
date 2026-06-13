@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+
+}
+h1{
+    color: rgb(0, 88, 88);
+    text-align: center;
+}
+a{
+    color: blue;
+    font-size: 32px;
+    text-align: center;
+}
+img{
+    display: block;
+    width: 200px; height: auto;
+    margin: 0 auto;
+}
+p{
+    background-color: white;
+    font-size: 32px;
+    text-align: center;
+}
